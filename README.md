@@ -6,4 +6,4 @@
 ![Circuit Design](circuit-design.png?raw=true "HC-SR04 Sensor connected to Arduino Uno R3 Board")
 
 ### Emulation Video
-![](screensnap-emulation.webm)
+![screensnap-emulation](screensnap-emulation.webm)
